@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sayanriju/express-skeleton-2"
+    "url": "git://github.com/sayanriju/express-skeleton-2.git"
   },
   "main": "bin/www",
   "author": "Sayan \"Riju\" Chakrabarti <s26c.sayan@gmail.com>",
@@ -74,5 +74,13 @@
     "hooks": {
       "pre-push": "npm run lint:quiet"
     }
+  },
+  "bugs": {
+    "url": "https://github.com/sayanriju/express-skeleton-2/issues"
+  },
+  "homepage": "https://github.com/sayanriju/express-skeleton-2#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
   }
 }
